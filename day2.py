@@ -210,8 +210,10 @@ def ageism(agenumber):
 y = int(input('input an age\n'))
 ageism(y)
 
-
-
+# part 2 (day 3 lessons)
+# extra python diving into lists and dictionaries. Things to continue studying:
+# compare to list
+# datatypes 
 
 
 
